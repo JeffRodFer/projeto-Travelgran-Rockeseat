@@ -13,11 +13,11 @@ header .container {
 
 #profile {
     display: flex;
-    gap: 32px;
+    gap: px;
 }
 
 #profile > div {
-    max-width: 420px;
+    max-width: 384px;
 }
 
 #profile h1 {
