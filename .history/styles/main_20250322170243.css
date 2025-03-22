@@ -2,10 +2,12 @@ main {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+    padding-block: 24px;
+object-fit: cover;    
 }
 main img {
-    width: 360px;
-    height: 360px;
+    width: 392px;
+    height: 400px;
     object-fit: cover;
   
 }

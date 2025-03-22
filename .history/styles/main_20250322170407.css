@@ -1,11 +1,11 @@
 main {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    gap: 24px 24px 2;
 }
 main img {
-    width: 360px;
-    height: 360px;
+    width: 392px;
+    height: 392px;
     object-fit: cover;
   
 }
