@@ -1,0 +1,14 @@
+header {
+    padding-block: 32px;
+}
+
+#profile {
+    display: flex;
+    gap: 32px;
+}
+
+#profile > div {
+    max-width: 384px;
+}
+
+#profile h1 

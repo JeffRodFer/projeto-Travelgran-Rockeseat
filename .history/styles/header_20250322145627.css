@@ -1,0 +1,8 @@
+header {
+    padding-block: 32px;
+}
+
+#profile {
+    display: flex;
+    gap: 32px;
+}

@@ -1,8 +1,5 @@
 header {
     padding-block: 32px;
-
-    font: var(--text-md);
-
 }
 
 header .container {
