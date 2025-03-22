@@ -34,10 +34,8 @@ a:hover {
 }
 
 .container {
+    max-width: 1200px;
+    margin: 0 auto;
     padding-inline: 32px;
-    margin-inline: auto;
-}
-
-.bg-surface-color {
-    background-color: var(--surface-color);
+    
 }

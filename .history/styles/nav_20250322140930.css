@@ -12,7 +12,7 @@ nav ul {
     display: flex;
     list-style: none;
     align-items: center;
-    gap: 24px;
+    gap: 20px;
 
     padding-block: 8px;;
 }

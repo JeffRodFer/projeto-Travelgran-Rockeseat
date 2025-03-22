@@ -37,7 +37,3 @@ a:hover {
     padding-inline: 32px;
     margin-inline: auto;
 }
-
-.bg-surface-color {
-    background-color: var(--surface-color);
-}

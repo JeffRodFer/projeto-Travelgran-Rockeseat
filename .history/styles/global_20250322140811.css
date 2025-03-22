@@ -38,6 +38,6 @@ a:hover {
     margin-inline: auto;
 }
 
-.bg-surface-color {
+.surface-color {
     background-color: var(--surface-color);
 }
