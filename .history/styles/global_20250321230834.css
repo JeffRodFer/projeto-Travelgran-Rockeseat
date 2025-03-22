@@ -14,7 +14,7 @@
 
 --font-family: "Poppins" , sans-serif;
 --text-lg: bold 32px/125% var(--font-family);
---text: 16px/1.5 var(--font-family);
+--text: ;
 --text-md: 14px/175% var(--font-family);
 --text-sm: 12px/175% var(--font-family);
 
@@ -27,20 +27,3 @@ body {
 
 /*
 Amante de viagens, cultura e gastronomia. Aqui compartilho as histórias registradas em cada clique, explorando cantinhos fascinates do nosso planeta a partir da movimentada cidde de São Paulo. */
-
-width: 384px;
-height: 120px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-hight: 170%;
-/* or 24px */
-align-items: center;
-
-/* inside auto layout */
-flex: none;
-order: 1;
-align-self: stretch;
-flex-grow: 0;
