@@ -26,7 +26,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: inherit;
+    color: indianred;
 }
 a:hover {
     color: var(--brand-color);
