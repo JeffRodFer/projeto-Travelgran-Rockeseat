@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+main img {
+    border-top: 12p;
+    width: 244px;
+    height: 244px;
+    object-fit: cover;
+  
+}

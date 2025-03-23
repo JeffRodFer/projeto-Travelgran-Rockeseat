@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    justify-content: space-evenly;
+    f
+    gap: 24px;
+}
+main img {
+    width: 360px;
+    height: 360px;
+    object-fit: cover;
+  
+}
