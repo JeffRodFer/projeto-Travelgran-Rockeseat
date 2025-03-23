@@ -1,0 +1,7 @@
+footer {
+    display: flex;
+}
+
+footer span:nth-child(1){
+    margin: right ;
+}
